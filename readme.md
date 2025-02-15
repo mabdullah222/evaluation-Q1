@@ -11,7 +11,12 @@ Ensure Go is installed:
 ```
 
 ### Steps to Run
-1. Run the program:
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/mabdullah222/evaluation-Q1
+   cd evaluation-Q1
+   ```
+2. Run the program:
    ```sh
    go run main.go
    ```
