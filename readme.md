@@ -11,11 +11,7 @@ Ensure Go is installed:
 ```
 
 ### Steps to Run
-1. Navigate to the project directory:
-   ```sh
-   cd question1
-   ```
-2. Run the program:
+1. Run the program:
    ```sh
    go run main.go
    ```
